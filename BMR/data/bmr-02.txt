@@ -1,0 +1,5 @@
+Jack Knight, 24, Male, 141.8, 5'9"
+Martin White, 21, Male, 193.4, 5'10"
+Jane Winter, 26, Female, 118.3, 5'2"
+Lily Smart, 22, Female, 163.8, 5'5"
+Frank Curtis, 25, Male, 181.3, 6'1"

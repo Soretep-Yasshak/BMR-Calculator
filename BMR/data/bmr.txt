@@ -1,0 +1,6 @@
+Jack 24 Male 141.8 5'9"
+Martin  21 Male 193.4 5'10"
+Jane  26 Female 118.3 5'2"
+Lily  22 Female 163.8 5'5"
+Frank  25 Male 181.3 6'1"
+Molly 25 Female 134 5'5
