@@ -1,6 +1,6 @@
 # BMR Calculator
 
-This project is a Java-based command-line and file-based tool for calculating key health metrics: Basal Metabolic Rate (**BMR**), Body Mass Index (**BMI**), and Total Daily Energy Expenditure (**TDEE**). It uses the **Mifflin-St Jeor formula** for its calculations and includes a basic graphical user interface (GUI) component.
+This project is a Java-based command-line and file-based tool for calculating BMR/BMI/TDEE from given information. It uses the **Mifflin-St Jeor formula** for its calculations.
 
 -----
 ### Prerequisites
@@ -22,7 +22,7 @@ This project is a Java-based command-line and file-based tool for calculating ke
     cd BMRCalculator
     ```
     
-##Optional
+### Optional
 
 3.  **Create a `data` folder**: The application reads from and writes to a `data` folder, so you'll need to create one at the root of the project.
 
