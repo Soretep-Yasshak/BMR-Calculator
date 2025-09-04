@@ -19,7 +19,7 @@ This project is a Java-based command-line and file-based tool for calculating BM
 2.  **Navigate to the Project Directory**
 
     ```bash
-    cd BMRCalculator
+    cd BMR
     ```
     
 ### Optional
@@ -39,7 +39,7 @@ This project is a Java-based command-line and file-based tool for calculating BM
 1.  **Compile the Code**: Compile the `BMRCalculator.java` file.
 
     ```bash
-    javac Calculator/BMRCalculator.java
+    javac src/Calculator/BMRCalculator.java
     ```
 
 2.  **Run the Application**: Execute the compiled class file.
