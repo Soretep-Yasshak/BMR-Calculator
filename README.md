@@ -21,17 +21,10 @@ This project is a Java-based command-line and file-based tool for calculating BM
     ```bash
     cd BMR
     ```
-    
-### Optional
 
-3.  **Create a `data` folder**: The application reads from and writes to a `data` folder, so you'll need to create one at the root of the project.
+3.  **Edit input file**: `bmr-01.txt` is inside the `data` folder. You can populate it with test data; the data should follow the order of prompts from the console mode: name, age, body type, weight, height, and activity level.
 
-    ```bash
-    mkdir data
-    ```
-
-4.  **Create input file**: Create a file named `bmr-01.txt` inside the `data` folder. You can populate it with test data, as the program is configured to read from this file.
-
+4.  **Output file**: Once you're done, the data will be populated in `bmr_results.txt` in `data`.
 -----
 
 ## How to Run
