@@ -64,7 +64,3 @@ The application will then prompt you for input directly in the console.
   * **Basic GUI**: A simple **Swing UI** is displayed upon program completion.
   * **Junit tests**
 
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
